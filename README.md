@@ -11,4 +11,4 @@ I am looking for contributors for trackerboy, contact me if interested.
 
 You can contact me from any of my accounts here:
  * Discord - stoneface86
- * Twitter - [@stoneface86](https://twitter.com/stoneface86)
+ * Bluesky - [@trackerboy.org](https://bsky.app/profile/trackerboy.org)
